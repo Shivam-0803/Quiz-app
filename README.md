@@ -102,7 +102,7 @@ Add new questions to `src/Data.jsx` following this format:
 
 ## 🔗 Live Demo
 
-Try the application here: [Quiz Platform Demo](https://quiz-platform-demo.com)
+Try the application here: [Quiz Platform Demo]https://quizx-app.netlify.app/
 
 ## 📱 Responsive Design
 
